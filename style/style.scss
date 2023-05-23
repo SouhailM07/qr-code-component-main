@@ -1,0 +1,26 @@
+body{
+    font: {
+        family:'Outfit';
+    }
+    background-color: hsl(212, 45%, 89%);
+}
+
+#card{
+    border:16px solid white;
+}
+
+#card__text{
+    font: {
+        size:15px;
+    }
+    color:hsl(220, 15%, 55%);
+}
+
+#card__img{
+    height:62%;
+}
+
+#card__header{
+    font-size:22px;
+    color:hsl(218, 44%, 22%);
+}

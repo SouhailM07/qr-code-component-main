@@ -1,0 +1,5 @@
+hello shadow warrior in your next project you have to use those:
+1- sass [x]
+2- bem  [x]
+3- tailwaind    [x]
+4- bootstrap [optional choice]  [!]
